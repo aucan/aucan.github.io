@@ -82,16 +82,16 @@ analytics:
 author:
   name             : "Alaettin UÇAN"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Phd @ CS, Text Mining, Deep Learning, Optimization, Pretrained Language Models"
   location         : "Ankara / Turkey"
   employer         : "Hacettepe University"
   googlescholar    : "https://scholar.google.com.tr/citations?user=dbZzyagAAAAJ"
   email            : "aucan@cs.hacettepe.edu.tr"
   researchgate     : "https://www.researchgate.net/profile/Alaettin_Ucan"
   github           : "aucan"
-  linkedin         : "https://www.linkedin.com/in/alaettin-ucan/"
+  linkedin         : "alaettin-ucan"
   orcid            : "https://orcid.org/0000-0002-2493-4022"
-  twitter          : "https://twitter.com/alaettin_ucan"
+  twitter          : "alaettin_ucan"
 
 
 # Reading Files
