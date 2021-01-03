@@ -13,3 +13,4 @@ This paper proposes an automatic translation approach to create a sentiment lexi
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/7907484)
 
 Recommended citation: Ucan, A., Naderalvojoud, B., Sezer, E. A., & Sever, H. (2016, January). SentiWordNet for new language: automatic translation approach. In 2016 12th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS) (pp. 308-315). IEEE.
+ 
