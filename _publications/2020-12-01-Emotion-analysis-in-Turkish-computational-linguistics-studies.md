@@ -12,4 +12,4 @@ Computational linguistics is an interdisciplinary field that aims to understand 
 
 [Download paper here](https://dergipark.org.tr/en/pub/belleten/issue/58101/837039)
 
-Recommended citation: UÇAN, A., SEZER, E. A., Türkçe bilgisayarlı dil bilimi çalışmalarında his analizi. Türk Dili Araştırmaları Yıllığı-Belleten, (70 (Aralık)), 193-210.
+Recommended citation: UÇAN, A., SEZER, E. A., Türkçe bilgisayarlı dil bilimi çalışmalarında his analizi. Türk Dili Araştırmaları Yıllığı-Belleten, Sayı 70 (Aralık-2020), ss 193-210.
