@@ -39,8 +39,9 @@ Skills
 * Text pre-processing (Turkish and English NLP tools)
 * Optimization Methods (PSO, GWO, etc.)
 
-[Türkçe CV] (files/cv.pdf)
-======
+[Türkçe CV](files/cv.pdf)
+
+
 
 Publications
 ======
