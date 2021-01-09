@@ -6,4 +6,4 @@ collection: portfolio
 
 I took part in the design and implementation of different modules in the Hospital Information Systems project. (2008-2010)
 
-https://kardelensw.com/
+[Kardelen Software](https://kardelensw.com/)
