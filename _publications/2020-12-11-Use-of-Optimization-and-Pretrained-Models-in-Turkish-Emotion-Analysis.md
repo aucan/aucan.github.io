@@ -2,7 +2,7 @@
 title: "Use of Optimization and Pretrained Models in Turkish Emotion Analysis"
 collection: publications
 permalink: /publication/2020-12-11-Use-of-Optimization-and-Pretrained-Models-in-Turkish-Emotion-Analysis
-excerpt: 'PhD Thesis'
+excerpt: ''
 date: 2020-12-11
 venue: 'PhD Thesis'
 paperurl: 'http://hdl.handle.net/11655/23185'
