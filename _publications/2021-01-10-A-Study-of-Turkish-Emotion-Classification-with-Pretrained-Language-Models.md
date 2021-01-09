@@ -4,8 +4,7 @@ collection: publications
 permalink: /publication/2021-01-10-A-Study-of-Turkish-Emotion-Classification-with-Pretrained-Language-Models
 excerpt: ''
 date: 2021-01-10
-venue: ''
-journal: 'Journal of Information Science'
+venue: 'Journal of Information Science'
 paperurl: 'https://journals.sagepub.com/toc/JIS/0/0'
 citation: 'Uçan A., Dörterler M., Sezer E. A., (2021) A Study of Turkish Emotion Classification with Pretrained Language Models, Journal of Information Science '
 ---
