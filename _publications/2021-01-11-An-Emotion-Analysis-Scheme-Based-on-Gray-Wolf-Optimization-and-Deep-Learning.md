@@ -4,8 +4,7 @@ collection: publications
 permalink: /publication/2021-01-11-An-Emotion-Analysis-Scheme-Based-on-Gray-Wolf-Optimization-and-Deep-Learning
 excerpt: ''
 date: 2021-01-11
-venue: ''
-journal: 'Concurrency and Computation Practice and Experience'
+venue: 'Concurrency and Computation Practice and Experience'
 paperurl: 'https://onlinelibrary.wiley.com/toc/15320634/0/0'
 citation: 'Uçan A., Dörterler M., Sezer E. A., (2021) An Emotion Analysis Scheme Based on Gray Wolf Optimization and Deep Learning, Concurrency and Computation Practice and Experience'
 ---
