@@ -2,7 +2,7 @@
 title: "Emotion analysis in Turkish computational linguistics studies"
 collection: publications
 permalink: /publication/2020-12-01-Emotion-analysis-in-Turkish-computational-linguistics-studies
-excerpt: ''
+excerpt: 'TR-Dizin'
 date: 2020-12-01
 venue: 'Türk Dili Araştırmaları Yıllığı - Belleten'
 paperurl: 'https://dergipark.org.tr/en/pub/belleten/issue/58101/837039'
