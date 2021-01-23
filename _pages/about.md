@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Short Bio"
-excerpt: "Short Bio"
+title: "Dr. Alaettin Uçan"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
