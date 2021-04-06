@@ -16,4 +16,4 @@ My main research topics are Information Retrieval, Natural Language Processing, 
 
 I took part in academic projects supported by TUBITAK and commercial projects for several institutions such as " TAF General Staff", "Ministry of Health", "Central Bank of the Republic of Turkey" and "Ford Turkey".
 
-Please contact [me](mailto(ucanalaettin@gmail.com)) for academic and commercial collaborations.
+Please contact [me](mailto:ucanalaettin@gmail.com) for academic and commercial collaborations.
