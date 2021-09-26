@@ -9,6 +9,7 @@ location: "Osmaniye, Turkey"
 ---
 
 ENFI-Temel Bilgi Teknolojileri
+======
 
 Temel bilgi teknolojileri dersi bilişim teknolojilerine güncel bir bakış açısı kazandırmayı amaçlar. Ders içerisinde öğrenciler sunum yapmayı ve ofis programları kullanmayı öğrenir. Hazır araçlar ile kişisel web sitesi yapma ve yayınlama deneyimi elde eder. Ders sayesinde dijital araçlarla kendi kendine öğrenebilme farkındalığı oluşur.
 
@@ -24,3 +25,12 @@ Temel bilgi teknolojileri dersi bilişim teknolojilerine güncel bir bakış aç
 * 10.Hafta - Excel makroları
 * 11.Hafta - Excel ve SpreadSheet eklentileri
 * 12.Hafta - Kişisel web sayfası örnekleri (github.io, google sites)
+
+Notlandırma
+======
+* %5  Sunum 
+* %5  Github ve linkedin hesabı açma 
+* %30 Excel Formul ödevleri (5 ödev)
+* %10 Excel Makro ödevi
+* %20 Forms ödevi
+* %30 Web sayfası ödevi 
