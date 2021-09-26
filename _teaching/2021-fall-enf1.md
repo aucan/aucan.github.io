@@ -8,9 +8,6 @@ date: 2021-09-24
 location: "Osmaniye, Turkey"
 ---
 
-ENFI-Temel Bilgi Teknolojileri
-======
-
 Temel bilgi teknolojileri dersi bilişim teknolojilerine güncel bir bakış açısı kazandırmayı amaçlar. Ders içerisinde öğrenciler sunum yapmayı ve ofis programları kullanmayı öğrenir. Hazır araçlar ile kişisel web sitesi yapma ve yayınlama deneyimi elde eder. Ders sayesinde dijital araçlarla kendi kendine öğrenebilme farkındalığı oluşur.
 
 * 1.Hafta  - Bilişim tarihçesi, donanım, işletim sistemi, yazılım 
