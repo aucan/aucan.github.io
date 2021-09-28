@@ -27,7 +27,8 @@ Notlandırma
 ======
 * %5  Sunum 
 * %5  Github ve linkedin hesabı açma 
-* %30 Excel Formul ödevleri (5 ödev)
+* %20 Excel Formul ödevleri (5 ödev)
 * %10 Excel Makro ödevi
-* %20 Forms ödevi
-* %30 Web sayfası ödevi 
+* %10 Forms ödevi
+* %10 Web sayfası ödevi 
+* %40 Final sınavı
