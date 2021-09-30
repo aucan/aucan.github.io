@@ -16,18 +16,18 @@ Temel bilgi teknolojileri dersi bilişim teknolojilerine güncel bir bakış aç
 * 4.Hafta  - Güncel çevrimiçi kaynaklar (Google, translate, github, linkedin, keep, calendar, doodle, trello, turnitin, leetcode, kaggle, datacamp, udemy, kahoot)
 * 5.Hafta  - Öğrenci sunumları
 * 6.Hafta  - Çevrimiçi form oluşturma (jotform, microsoft forms, google forms)
-* 7.Hafta  - Excel ve E-Tablolar
-* 8.Hafta  - Excel formülleri 
-* 9.Hafta  - Excel formülleri
-* 10.Hafta - Excel makroları
-* 11.Hafta - Excel ve SpreadSheet eklentileri
-* 12.Hafta - Kişisel web sayfası örnekleri (github.io, google sites)
+* 7.Hafta  - Excel ve E-Tablolar (Excel formülleri 1. ödev)
+* 8.Hafta  - Excel formülleri (Excel formülleri 2. ödev)
+* 9.Hafta  - Excel formülleri (Excel formülleri 3. ödev)
+* 10.Hafta - Excel makroları (Excel formülleri 4. ödev)
+* 11.Hafta - Excel ve SpreadSheet eklentileri (Excel makro ödevi)
+* 12.Hafta - Kişisel web sayfası örnekleri (github.io, google sites) (Web sayfası ödevi)
 
 Notlandırma
 ======
 * %5  Sunum 
 * %5  Github ve linkedin hesabı açma 
-* %20 Excel Formul ödevleri (5 ödev)
+* %20 Excel Formul ödevleri (4 ödev)
 * %10 Excel Makro ödevi
 * %10 Forms ödevi
 * %10 Web sayfası ödevi 
