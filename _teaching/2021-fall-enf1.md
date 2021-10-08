@@ -32,3 +32,9 @@ Notlandırma
 * %10 Forms ödevi
 * %10 Web sayfası ödevi 
 * %40 Final sınavı
+
+Kaynaklar
+======
+* [Microsoft Ofis Eğitim sayfası](https://support.microsoft.com/tr-tr/training)
+* [Udemy MS Ofis Eğitimi](https://www.udemy.com/tr/topic/microsoft-word/free/)
+* [Google Dokümanlar Eğitimi](https://support.google.com/a/users/answer/9282664)
