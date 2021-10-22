@@ -14,7 +14,7 @@ Temel bilgi teknolojileri dersi bilişim teknolojilerine güncel bir bakış aç
 * 2.Hafta  - Ofis yazılımları (Word, Powerpoint, Google Dokümanlar, Google Sunular, overleaf)
 * 3.Hafta  - Çevrimiçi dosya paylaşım sistemleri (OneDrive, Google Drive, Dropbox)
 * 4.Hafta  - Güncel çevrimiçi kaynaklar (Google, translate, github, linkedin, keep, calendar, doodle, trello, turnitin, leetcode, kaggle, datacamp, udemy, kahoot)
-* 5.Hafta  - Öğrenci sunumları (Sunu ödevi - [https://classroom.github.com/a/xMYdV8Ia](https://classroom.github.com/a/xMYdV8Ia)
+* 5.Hafta  - Öğrenci sunumları (Sunu ödevi - [https://classroom.github.com/a/MDfQyIls](https://classroom.github.com/a/MDfQyIls)
 * 6.Hafta  - Çevrimiçi form oluşturma (jotform, microsoft forms, google forms)
 * 7.Hafta  - Excel ve E-Tablolar (Excel formülleri 1. ödev)
 * 8.Hafta  - Excel formülleri (Excel formülleri 2. ödev)
