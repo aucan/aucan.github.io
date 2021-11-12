@@ -15,7 +15,7 @@ Temel bilgi teknolojileri dersi bilişim teknolojilerine güncel bir bakış aç
 * 3.Hafta  - Çevrimiçi dosya paylaşım sistemleri (OneDrive, Google Drive, Dropbox)
 * 4.Hafta  - Güncel çevrimiçi kaynaklar (Google, translate, github, linkedin, keep, calendar, doodle, trello, turnitin, leetcode, kaggle, datacamp, udemy, kahoot)
 * 5.Hafta  - Öğrenci sunumları (Sunu ödevi - [https://classroom.github.com/a/MDfQyIls](https://classroom.github.com/a/MDfQyIls)
-* 6.Hafta  - Çevrimiçi form oluşturma (jotform, microsoft forms, google forms)
+* 6.Hafta  - Çevrimiçi form oluşturma (jotform, microsoft forms, google forms) (Forms ödevi - [https://classroom.github.com/a/ziAbIJ8s](https://classroom.github.com/a/ziAbIJ8s))
 * 7.Hafta  - Excel ve E-Tablolar (Excel formülleri 1. ödev)
 * 8.Hafta  - Excel formülleri (Excel formülleri 2. ödev)
 * 9.Hafta  - Excel formülleri (Excel formülleri 3. ödev)
@@ -27,9 +27,9 @@ Notlandırma
 ======
 * %5  Sunum 
 * %5  Github ve linkedin hesabı açma 
+* %10 Forms ödevi
 * %20 Excel Formul ödevleri (4 ödev)
 * %10 Excel Makro ödevi
-* %10 Forms ödevi
 * %10 Web sayfası ödevi 
 * %40 Final sınavı
 
