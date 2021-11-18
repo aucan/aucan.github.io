@@ -39,3 +39,4 @@ Kaynaklar
 * [Udemy MS Ofis Eğitimi](https://www.udemy.com/tr/topic/microsoft-word/free/)
 * [Google Dokümanlar Eğitimi](https://support.google.com/a/users/answer/9282664)
 * [Github ve Classroom yardım dokümanı](../files/github.pdf)
+* [Excel Video Eğitimi](https://support.microsoft.com/tr-tr/office/excel-video-e%C4%9Fitimi-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
