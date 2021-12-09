@@ -17,7 +17,7 @@ Temel bilgi teknolojileri dersi bilişim teknolojilerine güncel bir bakış aç
 * 5.Hafta  - Öğrenci sunumları (Sunu ödevi - [https://classroom.github.com/a/MDfQyIls](https://classroom.github.com/a/MDfQyIls)
 * 6.Hafta  - Çevrimiçi form oluşturma (jotform, microsoft forms, google forms) (Forms ödevi - [https://classroom.github.com/a/ziAbIJ8s](https://classroom.github.com/a/ziAbIJ8s))
 * 7.Hafta  - Excel ve E-Tablolar (Excel formülleri 1. ödev [https://classroom.github.com/a/a5IDgx11](https://classroom.github.com/a/a5IDgx11))
-* 8.Hafta  - Excel formülleri (Excel formülleri 2. ödev)
+* 8.Hafta  - Excel formülleri (Excel formülleri 2. ödev [https://classroom.github.com/a/TF60k22O](https://classroom.github.com/a/TF60k22O))
 * 9.Hafta  - Excel formülleri (Excel formülleri 3. ödev)
 * 10.Hafta - Excel makroları (Excel formülleri 4. ödev)
 * 11.Hafta - Excel ve SpreadSheet eklentileri (Excel makro ödevi)
