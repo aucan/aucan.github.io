@@ -20,7 +20,7 @@ Temel bilgi teknolojileri dersi bilişim teknolojilerine güncel bir bakış aç
 * 8.Hafta  - Excel formülleri (Excel formülleri 2. ödev [https://classroom.github.com/a/TF60k22O](https://classroom.github.com/a/TF60k22O))
 * 9.Hafta  - Excel formülleri (Excel formülleri 3. ödev [https://classroom.github.com/a/n9W7W_mW](https://classroom.github.com/a/n9W7W_mW))
 * 10.Hafta - Excel makroları (Excel formülleri 4. ödev [https://classroom.github.com/a/kVaRIF-6](https://classroom.github.com/a/kVaRIF-6))
-* 11.Hafta - Kişisel web sayfası örnekleri (github.io, google sites) (Web sayfası ödevi)
+* 11.Hafta - Kişisel web sayfası örnekleri (github.io, google sites) (Web sayfası ödevi [https://classroom.github.com/a/vHn0VYG9](https://classroom.github.com/a/vHn0VYG9))
 
 Notlandırma
 ======
