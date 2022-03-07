@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am serving as an Assistant Professor at Osmaniye Korkut Ata University, Department of Computer Engineering.
+I am serving as an Assistant Professor at Osmaniye Korkut Ata University, Department of [Computer Engineering](http://bmb.osmaniye.edu.tr/).
 
 I received my M.Sc.(2014) and Ph.D.(2020) degree from the [Computer Engineering Department of Hacettepe University](http://cs.hacettepe.edu.tr) . The subject of my doctoral dissertation is the "Use of Optimization and Pretrained Language models in Emotion Analysis".
 
