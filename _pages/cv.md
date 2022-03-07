@@ -21,7 +21,7 @@ Work experience
   * Osmaniye Korkut Ata University
   * Computer Engineering Dept.
 
-* 2020-2022: Research Assistant
+* 2020-2022: Research Associate
   * Osmaniye Korkut Ata University
   * M.I.S. Dept.
 
