@@ -17,13 +17,21 @@ Education
 
 Work experience
 ======
-* 2010-*: Research Assistant
+* 2022-*: Assistant Professor
+  * Osmaniye Korkut Ata University
+  * Computer Engineering Dept.
+
+* 2020-2022: Research Assistant
   * Osmaniye Korkut Ata University
   * M.I.S. Dept.
 
 * 2012-2020: Research Assistant
   * Hacettepe University
   * Computer Engineering. Dept.
+
+* 2010-2012: Research Assistant
+  * Osmaniye Korkut Ata University
+  * M.I.S. Dept.
   
 * 2008-2010: Software Developer
   * Kardelen Software
