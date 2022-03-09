@@ -2,7 +2,7 @@
 title: "BMB214-Bilgisayar Grafikleri (2022 Bahar)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-spring-BMB214
+permalink: /teaching/2022-spring-bmb214
 venue: "Korkut Ata University, Computer Engineering Dept."
 date: 2022-03-01
 location: "Osmaniye, Turkey"
@@ -56,3 +56,5 @@ Kaynaklar
 ====== 
 * [TAO Framework Setup 2.1.0](https://sourceforge.net/projects/taoframework/files/)
 * [Advanced Graphics Programming Using OpenGL](bmb214/OpenGL.pdf)
+
+
