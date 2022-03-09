@@ -10,7 +10,9 @@ location: "Osmaniye, Turkey"
 
 Bu dersin amacı, öğrencilere bilgisayar grafiğinin teorisi ve uygulaması konularında giriş
 düzeyinde bilgi ve beceri kazandırmaktır. Bilgisayar grafiğinin temel konuları, matematik ilkeleri,
-algoritmalar ve veri yapılarını kapsar. Bu alandaki uygulamalar, ele alınan konuların pratik yönleri
+algoritmalar ve veri yapılarını kapsar. 
+
+Bu alandaki uygulamalar, ele alınan konuların pratik yönleri
 konusunda beceri kazandırır. Bu ders; bilgisayar grafiğinin uygulama alanları, çizgi ve eğri çizimi,
 çokgen çizimi, çokgen boyama, öteleme ve döndürme gibi dönüşümler, 2-D bakış, çizgi kırpma,
 çokgen kırpma, 3-D bakış, paralel ve perspektif projeksiyon, 3D kırpma, görünür yüzey algılama,
