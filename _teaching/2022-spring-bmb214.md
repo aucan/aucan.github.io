@@ -29,22 +29,17 @@ Notlandırma
 * %40 Arasınav
 * %50 Final sınavı
 
-
 Kurallar
 ====== 
 * Derse katılım zorunludur.
 * Arasınava katılmayan final sınavına giremez.
-
 
 Yer ve Zaman
 ====== 
 * Mühendislik Fakültesi EB202
 * Perşembe 08:15 - 10:00
 
-
 Kaynaklar
 ====== 
 * [TAO Framework Setup 2.1.0](https://sourceforge.net/projects/taoframework/files/)
 * [Advanced Graphics Programming Using OpenGL](bmb214/OpenGL.pdf)
-
-
