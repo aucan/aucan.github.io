@@ -43,4 +43,4 @@ Kaynaklar
 ====== 
 * [TAO Framework Setup 2.1.0](https://sourceforge.net/projects/taoframework/files/)
 * [Advanced Graphics Programming Using OpenGL](bmb214/OpenGL.pdf)
-* [Github Ödev Teslim Dokümanı] (../files/github.pdf)
+* [Github Ödev Teslim Dokümanı](../files/github.pdf)
