@@ -12,9 +12,9 @@ Bu dersin amacı, öğrencilere bilgisayar grafiğinin teorisi ve uygulaması ko
 
 *  1.Hafta - [Giriş](bmb214/01.giris.pptx)
 *  2.Hafta - [Matematiksel Temeller](bmb214/02.temeller.pptx)
-*  3.Hafta - [OpenGL]()
-*  4.Hafta - [Dönüşümler]()
-*  5.Hafta - [C#,OpenGL]() 
+*  3.Hafta - [OpenGL]() Ödev 1
+*  4.Hafta - [Dönüşümler]() Ödev 2
+*  5.Hafta - [C#,OpenGL]() [Ödev 3](https://classroom.github.com/a/OZqRl_Sq)
 *  6.Hafta - [Matematiksel İlkeler]()
 *  7.Hafta - Ara Sınav
 *  8.Hafta - [2b Gösterim]()
@@ -43,3 +43,4 @@ Kaynaklar
 ====== 
 * [TAO Framework Setup 2.1.0](https://sourceforge.net/projects/taoframework/files/)
 * [Advanced Graphics Programming Using OpenGL](bmb214/OpenGL.pdf)
+* [Github Ödev Teslim Dokümanı] (../files/github.pdf)
