@@ -8,6 +8,7 @@ date: 2022-03-01
 location: "Osmaniye, Turkey"
 ---
 
+
 Bu dersin amacı, öğrencilere bilgisayar grafiğinin teorisi ve uygulaması konularında giriş düzeyinde bilgi ve beceri kazandırmaktır. Bilgisayar grafiğinin temel konuları, matematik ilkeleri, algoritmalar ve veri yapılarını kapsar. 
 
 *  1.Hafta - Giriş
