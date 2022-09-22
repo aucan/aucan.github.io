@@ -24,21 +24,25 @@ Bu dersin amacı, öğrencilere bilgisayar grafiğinin teorisi ve uygulaması ko
 * 11.Hafta - Aydınlanma
 * 12.Hafta - Kaplamalar
 
+
 Notlandırma
 ====== 
 * %10 Katılım
 * %40 Arasınav
 * %50 Final sınavı
 
+
 Kurallar
 ====== 
 * Derse katılım zorunludur.
 * Arasınava katılmayan final sınavına giremez.
 
+
 Yer ve Zaman
 ====== 
 * Mühendislik Fakültesi EB202
 * Perşembe 08:15 - 10:00
+
 
 Kaynaklar
 ====== 
