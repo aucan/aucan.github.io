@@ -29,6 +29,11 @@ Notlandırma
 * %100 Proje
 
 
+Duyuru, Ödev ve Tartışmalar
+======
+* Piazza : [https://piazza.com/osmaniye.edu.tr/spring2023/bmb306](https://piazza.com/osmaniye.edu.tr/spring2023/bmb306)
+
+
 Yer ve Zaman
 ====== 
 * Microsoft Teams (Uzaktan)
