@@ -7,13 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+As the R&D Director at Tiga Information Services Inc., I lead AI-driven innovation in health informatics, transforming research into global-scale products. I hold an M.Sc. (2014) and a Ph.D. (2020) in Computer Engineering from Hacettepe University, specializing in optimizing large language models for emotion analysis. My expertise spans Large Language Models, Generative AI, Health Informatics, and Optimization, with a focus on real-world applications.  
 
-I am serving as an Assistant Professor at Osmaniye Korkut Ata University, Department of [Computer Engineering](http://bmb.osmaniye.edu.tr/).
+At Tiga, I oversee AI productization in healthcare. I manage a multidisciplinary team on high-impact projects, including medical image processing and radar-based health applications, digital therapeutics, and MDR compliance. I have contributed to AI-powered medical imaging systems and generative AI models adopted in clinical settings.  
 
-I received my M.Sc.(2014) and Ph.D.(2020) degree from the [Computer Engineering Department of Hacettepe University](http://cs.hacettepe.edu.tr) . The subject of my doctoral dissertation is the "Use of Optimization and Pretrained Language models in Emotion Analysis".
-
-My main research topics are Information Retrieval, Natural Language Processing, Text Mining, Machine Learning, and Optimization. I am also a full-stack machine learning engineer.
-
-I took part in academic projects supported by TUBITAK and commercial projects for several institutions such as " TAF General Staff", "Ministry of Health", "Central Bank of the Republic of Turkey" and "Ford Turkey".
+Beyond industry, I actively mentor AI researchers and students, fostering innovation at the intersection of academia and business. Collaborating with top institutions, I am dedicated to scaling AI-driven solutions globally. My mission is to bridge AI and healthcare, ensuring cutting-edge innovations translate into real-world impact, shaping the future of medical technology.
 
 Please contact [me](mailto:ucanalaettin@gmail.com) for academic and commercial collaborations.
