@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Asst. Prof. Alaettin UÇAN"
-excerpt: "Asst. Prof. Alaettin UÇAN"
+title: "Alaettin UÇAN, PhD"
+excerpt: "Alaettin UÇAN, PhD"
 author_profile: true
 redirect_from: 
   - /about/
