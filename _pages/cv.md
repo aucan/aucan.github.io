@@ -17,7 +17,15 @@ Education
 
 Work experience
 ======
-* 2022-*: Assistant Professor
+* 2025-*: Assistant Professor
+  * Ufuk University
+  * Computer Engineering Dept.
+
+* 2023-*: Director
+  * Tigahealth
+  * R&D Dept.
+
+* 2022-2023: Assistant Professor
   * Osmaniye Korkut Ata University
   * Computer Engineering Dept.
 
