@@ -9,20 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Computer Engineering, KTMU University, 2007
-* M.S. in Computer Engineering, Hacettepe University, 2014
-* Ph.D in Computer Engineering, Hacettepe University, 2020
-
 Work experience
 ======
 * 2025-*: Assistant Professor
   * Ufuk University
   * Computer Engineering Dept.
 
-* 2023-*: Director
-  * Tigahealth
+* 2023-*: R&D Director
+  * Tigahealth, Cariahealth, Mobithera
   * R&D Dept.
 
 * 2022-2023: Assistant Professor
@@ -40,35 +34,49 @@ Work experience
 * 2010-2012: Research Assistant
   * Osmaniye Korkut Ata University
   * M.I.S. Dept.
-  
+
 * 2008-2010: Software Developer
   * Kardelen Software
-  
+
+Education
+======
+* B.S. in Computer Engineering, KTU Manas (Kyrgyzstan-Turkey Manas University), 2007
+* M.S. in Computer Engineering, Hacettepe University, 2014
+* Ph.D in Computer Engineering, Hacettepe University, 2020
+
 Skills
 ======
-* Text Mining
-* Machine Learning
-  * Conventional Methods (SVM, KNN, DT, ANN, etc.)
-  * Deep Methods (CNN, LSTM, GRU, Attention, etc.)
-  * Transfer Learning Methods (Word Embeddings, BERTs, etc.)
-* Feature Engineering (x2, Information Gain, TF/IDF, etc.)
-* Text pre-processing (Turkish and English NLP tools)
-* Optimization Methods (PSO, GWO, etc.)
+* AI & Machine Learning
+  * Human Pose Estimation, Synthetic Data Generation, DD-GANs, Generative AI, Object Detection
+  * Multi-Agent Systems, Medical Imaging Segmentation, LLMs, Real-time Motion Tracking
+  * PyTorch, Keras, TensorFlow, Hugging Face Transformers, Scikit-learn, Pandas, NumPy, Matplotlib
+* Software Engineering & Cloud
+  * N-Tier Architecture, Event-Driven Architecture, Service-Oriented Architecture (SOA), RESTful APIs
+  * Docker, Kubernetes, Kafka, RabbitMQ, Git
+  * Java, C++, C#, Python, JavaScript, SQL, Linux/Bash Scripting
+* Health Technology
+  * ICD-10, LOINC, SNOMED, HL7, FHIR
+  * MDR (CE Marking), FDA 510(k), GDPR, HIPAA
+* Research, Funding & Innovation Management
+  * Horizon Europe & Eurostars, TUBITAK TEYDEB/ARDEB
+  * Idea-to-Product Lifecycle, R&D Roadmap Planning, R&D Productization, MVP Development
+  * Consortium Building, Grant Writing & Proposal Management, Fundraising Strategy
+  * Cost-Benefit Analysis, Resource Allocation & Optimization, International Networking, Academic-Industry Collaboration
+* Languages
+  * Turkish (native)
+  * English
+  * Russian
 
-[Türkçe CV](../files/cv.pdf)
-
-
+[CV](../files/cv.pdf)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
