@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 
+Education
+======
+* B.S. in Computer Engineering, KTU Manas (Kyrgyzstan-Turkey Manas University), 2007
+* M.S. in Computer Engineering, Hacettepe University, 2014
+* Ph.D in Computer Engineering, Hacettepe University, 2020
+
+
 {% include base_path %}
 
 Work experience
@@ -37,12 +44,6 @@ Work experience
 
 * 2008-2010: Software Developer
   * Kardelen Software
-
-Education
-======
-* B.S. in Computer Engineering, KTU Manas (Kyrgyzstan-Turkey Manas University), 2007
-* M.S. in Computer Engineering, Hacettepe University, 2014
-* Ph.D in Computer Engineering, Hacettepe University, 2020
 
 Skills
 ======
