@@ -34,6 +34,9 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i>WOS</a></li>
       {% endif %}
+      {% if author.scopus %}
+        <li><a href="{{ author.scopus }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Scopus</a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
